@@ -1,0 +1,3 @@
+Solution : 0 - 5 - 4 - 3 - 1 - 2 - 0
+Cost     : 116
+Time     : 3.4e-05 s
